@@ -1,0 +1,29 @@
+p,li {
+	text-align:  center;
+	list-style-position: inside;
+	padding:  0 40px 40px 40px;
+	font-size: 30px;
+	text-shadow:  5px 5px 5px black;
+	color : green;
+}
+
+h1 {
+	text-align:  center;
+	margin:  0;
+	padding:  20px 0;
+	text-shadow:  10px 10px 10px black;
+	font-size: 100px;
+	font-family: "Eagle Lake", Serif;
+	color : green;
+
+}
+
+html {
+	background-color: black;
+}
+
+img {
+	display:  block;
+	margin:  0 auto;
+	width: 600px;
+}
